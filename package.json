@@ -2,7 +2,7 @@
   "name": "react_firebase_chat2",
   "version": "1.0.0",
   "description": "Starting setup for react redux project",
-  "main": "index.js",
+  "main": "chat.js",
   "scripts": {
     "start": "node dev_server.js",
     "bundle": "webpack --config webpack.prod.js --progress",

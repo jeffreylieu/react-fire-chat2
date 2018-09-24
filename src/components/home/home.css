@@ -1,0 +1,9 @@
+.home-container {
+    display: flex;
+    height: calc(100vh - 25);
+    /*this assumes header is 125 px*/
+}
+
+.home-container > a {
+    margin: 0 auto;
+}
